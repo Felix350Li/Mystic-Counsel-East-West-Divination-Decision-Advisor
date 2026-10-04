@@ -1,7 +1,7 @@
 # Mystic Counsel · 中西方命理占卜与决策参谋
 *East–West Metaphysics & Decision Counsel*
 
-一个 [WorkBuddy](https://www.workbuddy.cn) 的 skill，融合东方玄学（易经 / 紫微斗数 / 风水）
+一个融合东方玄学（易经 / 紫微斗数 / 风水）
 与西方占卜（塔罗牌 / 占星 / 数字命理），**中英双语**为用户提供文化向的命运解读与决策参考。
 
 > ⚠️ 所有内容仅供娱乐、文化研究与自我反思，**不替代**医疗、投资、法律或任何重大人生决策的专业建议。
@@ -37,7 +37,7 @@
 
 **方式二 · 项目级**（团队共享）：放入 `<项目根>/.workbuddy/skills/`。
 
-**方式三 · 技能中心**：在 WorkBuddy 技能中心直接安装。
+**方式三 · 技能中心**：在支持 SKILL.md 技能格式的 AI 助手技能中心安装。
 
 ### 🔧 随机工具（确定性，避免 AI 瞎编）
 
@@ -73,7 +73,7 @@ mystic-counsel/
 
 ## 🇬🇧 English
 
-A [WorkBuddy](https://www.workbuddy.cn) skill that blends Chinese metaphysics (I Ching, Ziwei
+An AI-agent skill that blends Chinese metaphysics (I Ching, Ziwei
 Doushu, Feng Shui) with Western divination (tarot, astrology, numerology), giving culturally-oriented
 readings and decision reflection — in **both Chinese and English**.
 
@@ -101,7 +101,7 @@ readings and decision reflection — in **both Chinese and English**.
 ### 📦 Install
 
 Drop `mystic-counsel/` into `~/.workbuddy/skills/` (user-level) or `<project>/.workbuddy/skills/`
-(project-level), or install via the WorkBuddy skill center.
+(project-level), or install via an AI assistant's skill center that supports the SKILL.md format.
 
 ### 📄 License
 
