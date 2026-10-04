@@ -1,6 +1,10 @@
 ---
 name: mystic-counsel
 description: 融合中西方玄学的命理占卜与决策参谋 skill，中英双语支持（Chinese & English）。当用户需要以下内容时使用：易经/八卦推算与起卦、紫微斗数命盘解读、风水布局建议（家居/办公/五行方位）、塔罗牌占卜（单张/三张/凯尔特十字牌阵）、西方占星（太阳/月亮/上升/行星宫位）、数字命理/生命数字，或希望结合命理与占卜视角获得事业/情感/学业/健康/人生决策参考。This skill activates for fortune telling, divination, I Ching/Bagua, Ziwei Doushu, feng shui, tarot readings (single/three-card/Celtic Cross), Western astrology (sun/moon/rising/planets/houses), numerology, or metaphysics-based decision support — for both Chinese- and English-speaking users. 所有解读仅作娱乐与文化研究参考，不替代医疗、投资、法律或任何重大人生决策的专业建议。
+description_zh: 中西方命理占卜与决策参谋：融合易经、紫微斗数、风水、塔罗、西方占星与数字命理，中英双语，给出文化向的命运解读与有边界的决策建议。
+description_en: East–West Metaphysics & Decision Counsel — I Ching, Ziwei Doushu, Feng Shui, Tarot, Western astrology and numerology, bilingual, delivering culturally-oriented readings and bounded decision advice.
+version: 1.0.0
+author: Felix350Li
 agent_created: true
 ---
 
